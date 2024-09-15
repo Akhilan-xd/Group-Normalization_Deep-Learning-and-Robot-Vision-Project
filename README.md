@@ -1,8 +1,12 @@
 # Group-Normalization_Deep-Learning-and-Robot-Vision-Project
 
 ## Required Library and tools
-- [ ] This will also be given as an requirement.txt can just run this using python to download all the required libraries and tools.
-
+- Create a virtual environment
+- Source  to the virtual environment
+- pip install -r requirements.txt
+- Updated CUDA driver and the relevant files are required
+- Go to the scripts folder use python3 "file of your interest" to train and observe the model loss and time taken
+	- Importantly the directories for certain file path has to be changed according to your current directories
 
 ### Steps to download the dataset from ImageNet
 - Use this link [ImageNet](https://www.image-net.org/) to navigate yourself to the corresponding webpage
